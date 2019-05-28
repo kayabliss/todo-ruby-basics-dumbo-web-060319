@@ -22,15 +22,16 @@ end
 
 
 def return_a_value(phrase)
-return phrase
+phrase
 end
+return_a_value
 
 
 
 def last_evaluated_value (phrase1)
   phrase1
 end
-
+last_evaluated_value
 
 def pizza_party(top = "cheese")
 top
