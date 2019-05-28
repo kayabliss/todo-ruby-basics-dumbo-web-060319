@@ -22,7 +22,7 @@ end
 
 
 def return_a_value(quote)
-quote
+#{quote}
 end
 
 
@@ -30,8 +30,6 @@ end
 def last_evaluated_value(val)
 val
 end
-
-
 
 def pizza_party(top = "cheese")
 top
