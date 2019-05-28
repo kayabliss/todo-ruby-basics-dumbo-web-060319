@@ -24,8 +24,6 @@ end
 def return_a_value(phrase)
 phrase
 end
-return_a_value
-
 
 
 def last_evaluated_value (phrase1)
