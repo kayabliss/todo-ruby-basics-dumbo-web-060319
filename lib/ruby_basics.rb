@@ -22,17 +22,17 @@ end
 
 
 def return_a_value(phrase)
- phrase
+return phrase
 end
 
 
 
-def last_evaluated_value (topping = "cheese")
-  topping
+def last_evaluated_value (phrase1)
+  phrase1
 end
 
 
-def pizza_party(top)
+def pizza_party(top = "cheese")
 top
 
 end
