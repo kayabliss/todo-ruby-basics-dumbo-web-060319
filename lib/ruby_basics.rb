@@ -10,7 +10,7 @@ end
 
 
 def argue(phrase)
- return phrase 
+ phrase 
 end
 
 
