@@ -30,6 +30,7 @@ return_a_value()
 def last_evaluated_value(val)
 puts val
 end
+val 
 
 def pizza_party(top = "cheese")
 top
