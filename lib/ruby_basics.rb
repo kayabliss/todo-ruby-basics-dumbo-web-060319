@@ -23,12 +23,14 @@ def return_a_value
 
 end
 
-def last_evaluated_value
+def last_evaluated_value (topping = "cheese")
+  topping
 
 end
+topping
 
-def pizza_party(topping ="cheese")
-  topping
+def pizza_party(topping)
+ return topping
 
 end
 topping
