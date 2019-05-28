@@ -5,9 +5,9 @@ end
 division
 
 def assign_variable(value)
-  name = #{value}
+value
 end
-
+assign_variable
 
 def argue(phrase)
  return phrase 
