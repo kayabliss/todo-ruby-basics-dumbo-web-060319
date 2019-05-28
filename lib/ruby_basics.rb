@@ -6,8 +6,7 @@ division
 
 def assign_variable(value)
   name = #{value}
-  
-end
+  end
 assign_variable
 
 def argue(phrase)
