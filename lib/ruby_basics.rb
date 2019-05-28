@@ -22,7 +22,7 @@ end
 
 
 def return_a_value(phrase)
-phrase
+return phrase
 end
 return_a_value
 
