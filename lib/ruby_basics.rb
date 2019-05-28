@@ -21,16 +21,16 @@ def greeting(greeting, name)
 end
 
 
-def return_a_value(
- quote
+def return_a_value(phrase)
+ phrase = "Nice"
 end
-puts return_a_value
+return_a_value
 
 
 def last_evaluated_value(val)
- val
+ val = "expert"
 end
-puts last_evaluated_value
+
 
 def pizza_party(top = "cheese")
 top
