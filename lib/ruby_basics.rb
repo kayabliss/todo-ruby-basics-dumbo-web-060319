@@ -22,12 +22,12 @@ end
 
 
 def return_a_value(phrase)
-phrase
+return phrase
 end
 
 
 def last_evaluated_value (phrase1)
-  phrase1
+return phrase1
 end
 
 
