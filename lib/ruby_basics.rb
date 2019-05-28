@@ -21,7 +21,7 @@ def greeting(greeting, name)
 end
 
 
-def return_a_value(quote)
+def return_a_value(
  quote
 end
 puts return_a_value
