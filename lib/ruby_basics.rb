@@ -10,9 +10,10 @@ def assign_variable(value)
 end
 assign_variable
 
-def argue
-  
+def argue(phrase)
+ return phrase 
 end
+phrase
 
 def greeting
 
