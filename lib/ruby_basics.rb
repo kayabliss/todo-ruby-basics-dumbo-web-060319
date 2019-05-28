@@ -26,7 +26,7 @@ return phrase
 end
 
 
-def last_evaluated_value (phrases)
+def last_evaluated_value(phrases)
 phrases
 end
 
