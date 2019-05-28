@@ -33,4 +33,3 @@ def pizza_party(topping)
  return topping
 
 end
-topping
