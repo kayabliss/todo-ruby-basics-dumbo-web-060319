@@ -5,8 +5,10 @@ end
 division
 
 def assign_variable(value)
+  name = #{value}
   
 end
+assign_variable
 
 def argue
   
