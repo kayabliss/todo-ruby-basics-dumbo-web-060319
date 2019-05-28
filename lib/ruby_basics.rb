@@ -29,7 +29,7 @@ end
 def last_evaluated_value(phrases)
 phrases
 end
-
+last_evaluated_value
 
 def pizza_party(top = "cheese")
 top
