@@ -33,6 +33,7 @@ end
 topping
 
 def pizza_party(top)
-puts top
+top
 
 end
+top
