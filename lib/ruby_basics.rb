@@ -36,3 +36,4 @@ def pizza_party(top)
 top
 
 end
+pizza_party
