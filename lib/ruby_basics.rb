@@ -22,15 +22,15 @@ end
 
 
 def return_a_value(quote)
-return quote
+ quote
 end
-return_a_value()
+puts return_a_value()
 
 
 def last_evaluated_value(val)
-puts val
+ val
 end
-last_evaluated_value
+puts last_evaluated_value
 
 def pizza_party(top = "cheese")
 top
