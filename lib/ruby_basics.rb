@@ -27,10 +27,10 @@ end
 return_a_value
 
 
-def last_evaluated_value(val)
- val = "expert"
+def last_evaluated_value()
+ return "expert"
 end
-
+last_evaluated_value
 
 def pizza_party(top = "cheese")
 top
