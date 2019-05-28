@@ -26,10 +26,10 @@ return phrase
 end
 
 
-def last_evaluated_value (phrase1)
-phrase1
+def last_evaluated_value (phrases)
+phrases
 end
-phrase1
+phrases
 
 def pizza_party(top = "cheese")
 top
