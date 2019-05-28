@@ -24,7 +24,7 @@ end
 def return_a_value(quote)
  quote
 end
-puts return_a_value()
+puts return_a_value
 
 
 def last_evaluated_value(val)
