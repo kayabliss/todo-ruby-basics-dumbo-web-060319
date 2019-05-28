@@ -28,9 +28,8 @@ end
 
 def last_evaluated_value (topping = "cheese")
   topping
-
 end
-topping
+
 
 def pizza_party(top)
 top
