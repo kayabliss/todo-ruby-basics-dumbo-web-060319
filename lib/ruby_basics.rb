@@ -19,7 +19,7 @@ def greeting(greeting, name)
  return name
 
 end
-greeting
+
 
 def return_a_value(phrase)
 return phrase
