@@ -27,7 +27,7 @@ end
 
 
 def last_evaluated_value (phrase1)
-return phrase1
+phrase1
 end
 
 
