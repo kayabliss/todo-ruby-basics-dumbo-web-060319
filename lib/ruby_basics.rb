@@ -22,7 +22,7 @@ end
 
 
 def return_a_value(quote)
-return "#{quote}"
+return quote
 end
 return_a_value()
 
