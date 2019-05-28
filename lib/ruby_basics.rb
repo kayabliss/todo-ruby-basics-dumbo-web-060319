@@ -15,9 +15,12 @@ def argue(phrase)
 end
 phrase
 
-def greeting(phrase1,phrase2)
+def greeting(greeting, name)
+ return greeting
+ return name
 
 end
+greeting
 
 def return_a_value
 
