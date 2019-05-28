@@ -22,7 +22,7 @@ end
 
 
 def return_a_value(quote)
-puts quote
+quote
 end
 return_a_value()
 
